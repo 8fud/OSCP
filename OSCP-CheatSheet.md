@@ -1,25 +1,6 @@
 # OSCP
 Journey to earning Offsec's OSCP
 
----
-
-## TOOLS
-
----
-### EXIFTOOL
-
-```
-exiftool -a -u file.pdf
-```
-//-a for duplicate tags and -u for unknown tags
-
-
----
-
-### WHATWEB
-```
-whatweb <target url>
-```
 
 ---
 ## DNS ENUMERATION
